@@ -6,8 +6,8 @@
     "county": "South",
     "address": "No. 1 Sydney",
     "phone": "08030303030",
-    "imageLink": "https://image.com",
-    "description": "Naija no dey carry last"
+    "imageLink": "https://github.com/Ellhassan213/ImageMaster/blob/master/VenueImages/SydneyOperaHouse.jpg?raw=true",
+    "description": "Bla Bla Bla..."
   },
   {
     "id": "2",
@@ -16,8 +16,8 @@
     "county": "South",
     "address": "No. 1 Hollywood",
     "phone": "08030303030",
-    "imageLink": "https://image.com",
-    "description": "Naija no dey carry last"
+    "imageLink": "https://github.com/Ellhassan213/ImageMaster/blob/master/VenueImages/HollywoodBowl.jpg?raw=true",
+    "description": "Bla Bla Bla..."
   },
   {
     "id": "3",
@@ -26,8 +26,8 @@
     "county": "South",
     "address": "No. 1 Red Rocks",
     "phone": "08030303030",
-    "imageLink": "https://image.com",
-    "description": "Naija no dey carry last"
+    "imageLink": "https://github.com/Ellhassan213/ImageMaster/blob/master/VenueImages/RedRocks.jpg?raw=true",
+    "description": "Bla Bla Bla..."
   },
   {
     "id": "4",
@@ -36,8 +36,8 @@
     "county": "South",
     "address": "No. 1 Salt Mines",
     "phone": "08030303030",
-    "imageLink": "https://image.com",
-    "description": "Naija no dey carry last"
+    "imageLink": "https://github.com/Ellhassan213/ImageMaster/blob/master/VenueImages/SaltMines.jpg?raw=true",
+    "description": "Bla Bla Bla..."
   },
   {
     "id": "5",
@@ -46,7 +46,7 @@
     "county": "South",
     "address": "No. 1 Albert House",
     "phone": "08030303030",
-    "imageLink": "https://image.com",
-    "description": "Naija no dey carry last"
+    "imageLink": "https://github.com/Ellhassan213/ImageMaster/blob/master/VenueImages/RoyalAlbertHall.jpg?raw=true",
+    "description": "Bla Bla Bla..."
   }
 ]
